@@ -1,0 +1,21 @@
+{
+  "ticker": "NVDA",
+  "date": "2025-11-19",
+  "source": "options.market sample",
+  "predictions": [
+    {
+      "type": "call",
+      "strike": 1400,
+      "expiry": "2025-11-22",
+      "direction": "bullish",
+      "confidence": 0.64
+    },
+    {
+      "type": "put",
+      "strike": 1350,
+      "expiry": "2025-11-22",
+      "direction": "bearish",
+      "confidence": 0.36
+    }
+  ]
+}
